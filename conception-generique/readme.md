@@ -35,7 +35,7 @@
 
 
 ## réalisation
-[création d’un diagramme de classe utilisant un powerAmc](https://docs.google.com/presentation/d/1rfW2ai5JpLG40Etj-CffwJOLB8ID9EUVbl1FT64VbzU/edit?usp=sharing) 
+[Réalisation-Conception-générique](https://docs.google.com/presentation/d/1rfW2ai5JpLG40Etj-CffwJOLB8ID9EUVbl1FT64VbzU/edit?usp=sharing) 
 
 ## Nom de validateur
 
