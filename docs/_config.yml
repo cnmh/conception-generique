@@ -1,5 +1,5 @@
 # Titre et description
-title: Rapport besoin 
-description: Rapport de la phase besoin 
+title: Rapport analyse conception 
+description: Rapport de la phase analyse conception 
 locale: fr_FR
-baseurl: "/besoin"
+baseurl: "/conception-generique"
