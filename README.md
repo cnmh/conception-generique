@@ -4,4 +4,6 @@
 
 - Backlog 
 - Analyse-conception
+- Présentation
 - Maquettes 
+- Rapport
