@@ -1,15 +1,17 @@
 ---
-layout : default
-slug: /index
-order : 1
+layout: default
+title: /index
+order: 3
 ---
 
-<div class="book">
-{%- assign chapitres = site.pages | sort: "order"  -%}
-{% for chapitre in chapitres %}
-<article size="A4">
-    {{ chapitre.content }}
-</article>
-{% endfor %}  
-</div>
 
+
+
+
+## livrable
+
+### Rapport 
+[Rapport.html](https://labs-web.github.io/conceptiongenerique/rapport.html)
+
+### Présentation 
+[Présentation]()
